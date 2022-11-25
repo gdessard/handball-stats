@@ -1,0 +1,7 @@
+{
+  "name": "handballStats",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
